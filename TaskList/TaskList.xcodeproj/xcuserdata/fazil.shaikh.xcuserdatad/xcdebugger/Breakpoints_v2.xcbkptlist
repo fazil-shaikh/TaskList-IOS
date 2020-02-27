@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A90D1B7C-32E1-4F0A-88D4-C56EF4B4160D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2F7E074-5767-470B-BC6B-56820BAFFC4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "828D632A-4920-44BE-82C1-714415953C8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskList/Task.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "Task"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "828D632A-4920-44BE-82C1-714415953C8F - ed55ab513eeac282"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskList.Task.name.getter : Swift.String"
+                  moduleName = "TaskList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazil.shaikh/Desktop/project-1-ios-tasklist-fazil-shaikh/TaskList/TaskList/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "828D632A-4920-44BE-82C1-714415953C8F - c1cca3cedcc3ce96"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskList.Task.name.setter : Swift.String"
+                  moduleName = "TaskList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazil.shaikh/Desktop/project-1-ios-tasklist-fazil-shaikh/TaskList/TaskList/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "828D632A-4920-44BE-82C1-714415953C8F - 802b95b635cf3187"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskList.Task.name.modify : Swift.String"
+                  moduleName = "TaskList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazil.shaikh/Desktop/project-1-ios-tasklist-fazil-shaikh/TaskList/TaskList/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "828D632A-4920-44BE-82C1-714415953C8F - a065a1f8f9ee4c96"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskList.Task.name.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TaskList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fazil.shaikh/Desktop/project-1-ios-tasklist-fazil-shaikh/TaskList/TaskList/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
