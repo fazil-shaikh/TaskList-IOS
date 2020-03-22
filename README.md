@@ -40,3 +40,14 @@ In order to cancel your subscription follow the instructions below:
 
 From this project, I learned that swift is actually a wonderful programming language that is concise, interactive, and fun to write in. At first, Xcode gave me a lot of trouble but it was simply due to my unfamiliarity with the program. As I kept using it, the tools and features became easier to use. The task list program itself introduced me to many different built-in IOS functions which were convinient and intuitive to use. I did have to research implementation for functionality like the swipe buttons and datepicker but was able to figure it out eventually. Overall, a good first experience with Swift and Xcode.
 
+## Screenshots
+![LaunchScreen](Screenshots/LaunchScreen.PNG)
+
+![Homepage](Screenshots/Homepage.PNG)
+![CompletedATask](Screenshots/CompletedATask.PNG)
+![CreateANewTask](Screenshots/CreateANewTask.PNG)
+![DeleteAndCompletionSwipButtons](Screenshots/DeleteAndCompletionSwipButtons.PNG)
+![EditExistingTask](Screenshots/EditExistingTask.PNG)
+![OrganizedTasks](Screenshots/OrganizedTasks.PNG)
+
+
